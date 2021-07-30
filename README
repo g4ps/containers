@@ -1,0 +1,5 @@
+School 21 project point of which is to re-implement several STL containers
+
+All containers, which are presented here are working properly, only problem is
+that iterators for map are working incorrectly, and map itself is not balanced;
+
